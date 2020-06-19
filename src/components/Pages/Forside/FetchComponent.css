@@ -1,0 +1,68 @@
+.fetchclass{
+display: grid;
+grid-template-columns: repeat(3, 20%);
+grid-gap: 20px;
+text-align: center;
+justify-content: center;
+
+}
+
+.api-p{
+font-weight: 200;
+padding-bottom: 6%;
+}
+
+.fetchclass img{
+width: 100%;
+height: 20vh;
+}
+
+.hero-img{
+width: 100%;
+}
+
+.hero-txt{
+text-align: center;
+font-size: 4vw;
+margin: 0;
+padding: 0;
+padding-bottom: 40px;
+}
+
+.front-button{
+width: 18vw;
+height: 4vh;
+color: white;
+background-color: black;
+}
+
+.front-button:hover{
+background-color: blue;
+}
+
+.grey-box{
+background-color: lightgrey;
+height: 220px;
+padding: 0;
+margin-top: -4px;
+}
+
+.api-h3{
+padding: 0;
+margin: 0;
+padding-top: 5px;
+}
+
+.newsarchive{
+width: 61.5vw;
+height: 4vh;
+margin: auto;
+color: white;
+background-color: blue;
+margin-bottom: 3%;
+margin-top: 3%;
+}
+
+.maindiv{
+text-align: center;
+}
